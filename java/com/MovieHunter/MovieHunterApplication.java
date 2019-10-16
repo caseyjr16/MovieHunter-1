@@ -1,4 +1,4 @@
-package com.MovieHunter.MovieHunter;
+package com.MovieHunter;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
